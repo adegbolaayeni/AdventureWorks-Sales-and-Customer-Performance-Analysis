@@ -1,4 +1,4 @@
-# AdventureWorks Sales Intelligence Dashboard
+# AdventureWorks; Sales and Customer Performance Analysis
 
 A multi-page Power BI dashboard analyzing sales performance, 
 customer behavior, and territory revenue across the AdventureWorks 
